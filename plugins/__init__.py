@@ -1,0 +1,2 @@
+from plugins.pen_cap_traking_plugin import PenCapTrackingPlugin
+from plugins.new_plugin import Plugin
